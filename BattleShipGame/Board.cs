@@ -11,6 +11,10 @@ namespace BattleShipGame
         //member variables
 
         //constructor
+        public Board()
+        {
+
+        }
 
         //member methods
 

@@ -8,10 +8,14 @@ namespace BattleShipGame
 {
     class Player
     {
-        //member variables
+        //member variables 
         
 
         //constructor
+        public Player()
+        {
+
+        }
 
         //member methods
 
