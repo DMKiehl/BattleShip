@@ -10,6 +10,8 @@ namespace BattleShipGame
     {
         static void Main(string[] args)
         {
+            GamePlay newGame = new GamePlay();
+
             //Other requirements
             //board must be hidden from opposing player once ships are placed
             //board must show location of all hits (but hides parts of ship that are not hit yet) and previously chosen misses to opposing player

@@ -9,7 +9,7 @@ namespace BattleShipGame
     class Player
     {
         //member variables
-        List<>
+        
 
         //constructor
 
