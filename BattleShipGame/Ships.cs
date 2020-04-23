@@ -9,21 +9,15 @@ namespace BattleShipGame
     class Ships
     {
         //member variables
-        public string ShipType { get; set; }
+        public string name;
+        public int spaceSize;
 
-        public int SpaceSize { get; set; }
-        public List<Ships> ShipChoices;
+        
        
         //constructors
         public Ships()
         {
-            ShipChoices = new List<Ships>
-            {
-                new Ships {ShipType = "Destroyer", SpaceSize = 2},
-                new Ships {ShipType = "Submarine", SpaceSize = 3},
-                new Ships {ShipType = "Battleship", SpaceSize = 4},
-                new Ships {ShipType = "Aircraft Carrier", SpaceSize = 5},
-            };
+           
           
         }
 

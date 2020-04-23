@@ -29,7 +29,7 @@ namespace BattleShipGame
             //Current player chooses location to battle
             //If hit, mark location as a hit, if miss mark location as miss
             //If ship is sunk delete ship from list
-            //Game goes on until one player sinks all of opposing players ships
+            //Game goes on until one player sinks all of opposing players ship, Adde
 
 
         }
